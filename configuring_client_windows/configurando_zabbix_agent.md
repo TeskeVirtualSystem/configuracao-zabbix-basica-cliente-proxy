@@ -1,4 +1,4 @@
-# Configurando Zabbix Agent
+# Configurando Agente Zabbix
 
 Para configurar o Zabbix Agent vamos abrir o arquivo `C:\zabbix\conf\zabbix_agentd.win.conf` e editar as seguintes linhas:
 
