@@ -1,7 +1,6 @@
 # Summary
 
 * [Introdução](README.md)
-   * Configurando Host no Zabbix
 * [Configurando Cliente Windows](configuring_client_windows/README.md)
    * [Primeiros Passos](configuring_client_windows/firststeps.md)
    * [Configurando Agente Zabbix](configuring_client_windows/configurando_zabbix_agent.md)
