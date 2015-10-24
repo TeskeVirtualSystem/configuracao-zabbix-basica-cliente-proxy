@@ -7,5 +7,5 @@
    * [Instalando Agente como Serviço](configuring_client_windows/instalando_agente_como_servico.md)
    * [Liberando Agente Zabbix no Firewall](configuring_client_windows/liberando_agente_zabbix_no_firewall.md)
    * [Rodando Agente Zabbix](configuring_client_windows/rodando_agente_zabbix.md)
-* Configurando Host no Zabbix
+* [Configurando Host no Zabbix](configure_host/README.md)
 
