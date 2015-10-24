@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Configurando Cliente Windows](configuring_client_windows/README.md)
-   * [Windows](configuring_client/windows.md)
+   * [Primeiros Passos](configuring_client_windows/first_steps.md)
 
