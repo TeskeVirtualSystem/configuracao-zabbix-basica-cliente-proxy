@@ -26,3 +26,4 @@ Feito isso, instale o Notepad++ e extraia o Agente Zabbix no diretório `C:\zabb
     *   conf
         *   zabbix_agentd.win.conf
 
+Feito isso estamos prontos para seguir para os próximos passos!
