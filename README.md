@@ -1,4 +1,4 @@
-My Awesome Book
+Configuração Zabbix Básica de Cliente e Proxy
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Neste livro irei demonstrar como configurar um cliente Zabbix e um Proxy Zabiix
