@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Configurando Cliente](configuring_client/README.md)
-   * Windows
+   * [Windows](configuring_client/windows.md)
 
