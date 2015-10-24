@@ -1,0 +1,26 @@
+{
+    "gitbook"   : ">=2.0.0",
+    "title" : "Configuração Básica Zabbix de Cliente e Proxy",
+    "description" : "Neste livro irei demonstrar como configurar um cliente Zabbix e um Proxy Zabix",
+    "author" : "Lucas Teske",
+    "public" : false,
+    "language" : "pt" ,
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+                "font": {
+                    "size": null,
+                    "family": "Impact",
+                    "color": "#FFF"
+                },
+                "size": {
+                    "w": 1800,
+                    "h": 2360
+                },
+                "background": {
+                    "color": "#09F"
+                },
+                "watermark" : "../../baseimages/tvs.svg"
+            }
+    }
+}   
