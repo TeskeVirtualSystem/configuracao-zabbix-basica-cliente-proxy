@@ -1,0 +1,2 @@
+# Rodando Agente Zabbix
+
