@@ -1,0 +1,2 @@
+# Configurando Host no Zabbix
+
