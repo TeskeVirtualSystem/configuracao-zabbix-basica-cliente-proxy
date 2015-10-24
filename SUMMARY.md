@@ -6,4 +6,5 @@
    * [Configurando Zabbix Agent](configuring_client_windows/configurando_zabbix_agent.md)
    * Insatalando Agente como Serviço
    * Liberando Agente Zabbix no Firewall
+   * Rodando Agente Zabbix
 
