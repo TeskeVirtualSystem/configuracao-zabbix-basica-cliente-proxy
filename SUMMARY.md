@@ -13,5 +13,5 @@
 * [Configurando Proxy Zabbix](proxy/README.md)
    * Configurando Proxy no servidor Zabbix
    * [Instalando Proxy Zabbix](proxy/instalando_proxy_zabbix.md)
-       * Configurando Proxy no servidor Zabbix
+   * Configurando Proxy no servidor Zabbix
 
