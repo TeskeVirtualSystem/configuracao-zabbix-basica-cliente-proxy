@@ -62,4 +62,4 @@ Feito isso, verifique se está tudo certo vendo o arquivo `/var/log/zabbix-proxy
  16015:20151025:025712.216 Received configuration data from server. Datalen 2594
  ```
  
- Se não houverem erros, você já pode configurar o agente local como em 
+ Se não houverem erros, você já pode configurar o agente local como em [Configurando Cliente Linux](configuring_client_linux/README.md)
