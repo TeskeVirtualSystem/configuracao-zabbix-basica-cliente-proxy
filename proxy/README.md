@@ -1,0 +1,2 @@
+# Configurando Proxy Zabbix
+
