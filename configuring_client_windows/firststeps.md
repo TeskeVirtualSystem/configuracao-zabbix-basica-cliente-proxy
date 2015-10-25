@@ -1,5 +1,7 @@
 # Primeiros passos
 
+Antes de mais nada, certifique-se de ter criado um host no servidor Zabbix como descrito em [Configurando Host no Zabbix](../configure_host/README.md)
+
 O primeiro passo para configuração do Agente Zabbix em uma máquina Windows é baixar a versão mais recente do Zabbix Agent no site oficial do Zabbix: http://www.zabbix.com/download.php .
 O agente para se baixar está na seção `Zabbix pre-compiled agents`.
 
