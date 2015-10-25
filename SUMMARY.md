@@ -15,4 +15,5 @@
    * [Configurando Proxy no servidor Zabbix](proxy/configurando_proxy_no_servidor_zabbix.md)
    * [Rodando Proxy e configurando agente local](proxy/rodando_proxy_e_configurando_agente_local.md)
 * [Configurando Cliente Linux](configuring_client_linux/README.md)
+   * Instalando Agente Zabbix
 
