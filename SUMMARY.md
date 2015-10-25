@@ -12,4 +12,5 @@
    * [Rodando Agente Zabbix](configuring_client_windows/rodando_agente_zabbix.md)
 * [Configurando Proxy Zabbix](proxy/README.md)
    * [Instalando Proxy Zabbix](proxy/instalando_proxy_zabbix.md)
+       * Configurando Proxy no servidor Zabbix
 
