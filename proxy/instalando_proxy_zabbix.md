@@ -34,6 +34,15 @@ StartPingers=5
 StartDiscoverers=5
 ```
 
+Feito isso, edite o arquivo `/etc/default/zabbix-proxy` e troque a linha
+```
+START=no
+```
+por
+```
+START=yes
+```
+
 Após isso, caso deseja usar rastreio SNMP (para antenas Ubiquiti, Câmeras ou outros dispositivos) instale o SNMP:
 
 ```bash
